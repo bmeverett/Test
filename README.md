@@ -1,5 +1,5 @@
 # test
 
 > **Warning**
-
-> This is text
+> 
+> This is a warning
